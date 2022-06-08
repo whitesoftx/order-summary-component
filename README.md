@@ -1,4 +1,5 @@
 # Frontend Mentor - Order Summary Component Challenge
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -10,7 +11,7 @@
 
 ## Overview
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ### Screenshot
 
@@ -18,8 +19,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [QR Code Component](https://github.com/whitesoftx/qr-code-component)
-- Live Site URL: [QR Component GitHub Live Site](https://whitesoftx.github.io/qr-code-component/)
+- Solution URL: [QR Code Component](https://github.com/whitesoftx/order-summary-component)
+- Live Site URL: [QR Component GitHub Live Site](https://whitesoftx.github.io/order-summary-component/)
 
 ### Built with
 
