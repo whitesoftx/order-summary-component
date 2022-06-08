@@ -19,8 +19,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [QR Code Component](https://github.com/whitesoftx/order-summary-component)
-- Live Site URL: [QR Component GitHub Live Site](https://whitesoftx.github.io/order-summary-component/)
+- Solution URL: [Order Summary Component](https://github.com/whitesoftx/order-summary-component)
+- Live Site URL: [Order Summary Component GitHub Live Site](https://whitesoftx.github.io/order-summary-component/)
 
 ### Built with
 
